@@ -6,7 +6,7 @@
 
 <h3>Algorithm</h3>
 
-<p> Input Commands and Operators. Logical and Relational Operators. Control Flow. Loops. Procedures. Vectors. Functions. Matrices.</p>
+<p> Input Commands and Operators. Logical and Relational Operators. Control Flow. Loops. Procedures. Arrays. Functions. Matrices.</p>
 
 <p>Comandos de Entrada e Operadores. Operadores Lógicos e Relacionais. Estruturas de Decisão. Estruturas de Repetição. Procedimentos. Vetores. Funções. Matrizes.</p>
 
