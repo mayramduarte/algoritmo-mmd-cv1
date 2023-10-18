@@ -1,10 +1,10 @@
 # algoritmo-mmd-cv1
 
-<h1>  Course - Algoritmo - Curso em Vídeo - Gustavo Guanabara</h1>
+<h1>  Course - Algorithm - Curso em Vídeo - Gustavo Guanabara</h1>
 
 <h2>Topics (Conteúdo)</h2>
 
-<h3>Algorithm</h3>
+<h3>Algorithm (Algoritmo)</h3>
 
 <p> Input Commands and Operators. Logical and Relational Operators. Control Flow. Loops. Procedures. Arrays. Functions. Matrices.</p>
 
